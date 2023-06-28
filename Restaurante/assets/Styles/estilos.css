@@ -1,0 +1,34 @@
+.banner{
+    background-image: url(./../Img/sheny.png);
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 25%;
+}
+.menu{
+    background-color: black;
+}
+footer {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .footer-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .footer-item {
+    margin: 10px;
+  }
+  
+  .footer-item-title {
+    font-weight: bold;
+  }
+  
+  .footer-item-text {
+    color: #666666;
+  }
+  
